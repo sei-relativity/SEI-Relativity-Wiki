@@ -1,2 +1,1 @@
-# SEI Relativity Wiki
-Click on wiki to head over to the wiki pages...
+# [SEI Relativity Wiki](https://github.com/sei-relativity/SEI-Relativity-Wiki/wiki)
